@@ -1,4 +1,4 @@
-the rainbow
+the rainbow and the unicorn
 
 purple
 pink
@@ -7,4 +7,6 @@ blue
 red
 green
 yellow
+unicorn
 this are color of rainbow
+and unicorn
